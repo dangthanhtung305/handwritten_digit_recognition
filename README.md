@@ -5,7 +5,7 @@ Design software that can identify information and score on the test paper. Then 
 
 Sample transcript: 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/transcript.png">
+  <img width="460" height="200" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/transcript.png">
 </p>
 
 We need to detect student code, total score and rubric point
@@ -50,5 +50,13 @@ python3 validateClassifier.py
 ```
 ## Result
 UI software
+<p align="center">
+  <img width="460" height="300" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/GUI.png">
+</p>
 
 Validation
+<p align="center">
+  <img width="460" height="300" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/confusion_maxtrix.png">
+  
+  
+</p>
