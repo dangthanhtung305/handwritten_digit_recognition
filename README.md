@@ -8,7 +8,7 @@ Sample transcript:
   <img width="460" height="200" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/transcript.png">
 </p>
 
-We need to detect student code, total score and rubric point
+We need to detect student code, total score and rubric point.
 
 ## Methods
 Image processing: 
@@ -49,14 +49,14 @@ Validation accuracy and confusion matrix
 python3 validateClassifier.py
 ```
 ## Result
-UI software
+UI software:
 <p align="center">
-  <img width="460" height="500" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/GUI.png">
+  <img width="650" height="500" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/GUI.png">
 </p>
 
-Validation
+
+
+Validation:
 <p align="center">
-  <img width="460" height="460" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/confusion_maxtrix.png">
-  
-  
+  <img width="650" height="460" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/confusion_maxtrix.png">
 </p>
