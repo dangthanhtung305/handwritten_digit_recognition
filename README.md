@@ -4,7 +4,9 @@
 Design software that can identify information and score on the test paper. Then automatically enter this information into the excel file. It uses image processing and machine learning to identify handwriting digit.
 
 Sample transcript: 
-
+<p align="center">
+  <img width="460" height="300" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/transcript.png">
+</p>
 
 We need to detect student code, total score and rubric point
 
