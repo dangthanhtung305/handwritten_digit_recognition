@@ -19,18 +19,18 @@ Recognition handwritten digit pictures:
 - HOG feature extraction
 - Use SVM (Support vector machine) to recognition each digit
 
-After that, export all the information into excel file.
+After that, export all the information into an excel file.
 
-We use MNIST database of handwritten digits for training, it has a training set of 60,000 examples, and a test set of 10,000 examples. The digits have been size-normalized and centered in a fixed-size image.
+We use the MNIST database of handwritten digits for training, it has a training set of 60,000 examples, and a test set of 10,000 examples. The digits have been size-normalized and centered in a fixed-size image.
 
 ## Dependencies
-- Ubuntu 16.04: enviroment
+- Ubuntu 16.04: environment
 - opencv: image processing
 - PyQt5: design UI
 - scikit-learn: machine learning library for python
 - scikit-image: HOG feature extraction
 - xlrd, xlwt: read, write excel file
-- IP camera software in smart phone: transmit real time picture
+- IP camera software in the smartphone: transmit a real-time picture
 - python 3
 
 ## Build and run
