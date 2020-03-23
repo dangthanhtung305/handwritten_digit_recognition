@@ -36,7 +36,7 @@ We use the MNIST database of handwritten digits for training, it has a training 
 - python 3
 
 ## Build and run
-Run software
+Run software (after training)
 ```
 python3 main.py
 ```
@@ -51,12 +51,12 @@ python3 validateClassifier.py
 ## Result
 UI software
 <p align="center">
-  <img width="460" height="300" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/GUI.png">
+  <img width="460" height="500" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/GUI.png">
 </p>
 
 Validation
 <p align="center">
-  <img width="460" height="300" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/confusion_maxtrix.png">
+  <img width="460" height="460" src="https://github.com/dangthanhtung305/handwritten_digit_recognition/blob/master/image/confusion_maxtrix.png">
   
   
 </p>
